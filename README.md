@@ -37,3 +37,7 @@ However, if you want to run them on your local machine, the ungraded labs and as
 
 ![image](images/2.png)
 ![image](images/3.png)
+
+## Create The Model
+
+
