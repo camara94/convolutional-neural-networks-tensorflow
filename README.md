@@ -32,3 +32,5 @@ However, if you want to run them on your local machine, the ungraded labs and as
 ## Dataset Tree
 
 ![image](images/1.png)
+
+## How To Organise Our Dataset
