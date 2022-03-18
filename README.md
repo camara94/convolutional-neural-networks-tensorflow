@@ -45,3 +45,5 @@ However, if you want to run them on your local machine, the ungraded labs and as
 ## Compilation
 
 ![image](images/5.png)
+
+## Generator
