@@ -24,3 +24,10 @@ However, if you want to run them on your local machine, the ungraded labs and as
     seaborn==0.11.2
 </code>
 </pre>
+
+## The cats vs dogs dataset
+
+[Kaggle Dogs v Cats dataset](https://www.kaggle.com/c/dogs-vs-cats)
+
+## Dataset Tree
+
