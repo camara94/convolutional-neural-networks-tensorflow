@@ -43,3 +43,5 @@ However, if you want to run them on your local machine, the ungraded labs and as
 ![image](images/4.png)
 
 ## Compilation
+
+![image](images/5.png)
