@@ -9,6 +9,18 @@ All notebooks in this course can be run in either Google Colab or Coursera Labs.
 
 However, if you want to run them on your local machine, the ungraded labs and assignments for each week can be found in this [Github repository](https://github.com/https-deeplearning-ai/tensorflow-1-public) under the C2 folder. If you already have git installed on your computer, you can clone it with this command:
 
-<pre>
+<pre></pre>
 <code>git clone https://github.com/https-deeplearning-ai/tensorflow-1-public</code>
+</pre>
+
+## You will need these packages if you will run the notebooks locally
+
+<pre>
+<code>
+    tensorflow==2.7.0
+    scikit-learn==1.0.1
+    pandas==1.1.5
+    matplotlib==3.2.2
+    seaborn==0.11.2
+</code>
 </pre>
