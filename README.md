@@ -36,3 +36,4 @@ However, if you want to run them on your local machine, the ungraded labs and as
 ## How To Organise Our Dataset
 
 ![image](images/2.png)
+![image](images/3.png)
