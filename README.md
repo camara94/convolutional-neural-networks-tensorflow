@@ -59,3 +59,4 @@ However, if you want to run them on your local machine, the ungraded labs and as
 * [https://discourse.deeplearning.ai/](https://discourse.deeplearning.ai/)
 * [https://docs.google.com/document/d/1xrWj9plgme08hcxj5L5tEhOuQCa4W8_eN3E1kSb2pW0/edit#heading=h.9wfgljijo9b9](https://docs.google.com/document/d/1xrWj9plgme08hcxj5L5tEhOuQCa4W8_eN3E1kSb2pW0/edit#heading=h.9wfgljijo9b9)
 * [https://community.deeplearning.ai/c/tf1/tf1-course-2/80](https://community.deeplearning.ai/c/tf1/tf1-course-2/80)
+* [https://keras.io/api/preprocessing/image/](https://keras.io/api/preprocessing/image/)
