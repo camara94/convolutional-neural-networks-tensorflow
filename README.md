@@ -99,6 +99,8 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 
 ![image](images/17.png)
 
+![image](images/18.png)
+
 ## Resources
 
 * [https://discourse.deeplearning.ai/](https://discourse.deeplearning.ai/)
