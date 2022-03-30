@@ -81,6 +81,7 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 
 ## Do Not Training The Model
 
+![image](images/11.png)
 
 
 ## Resources
