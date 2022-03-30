@@ -89,6 +89,9 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 ![image](images/13.png)
 
 
+## Coding your own model with transferred features
+
+
 ## Resources
 
 * [https://discourse.deeplearning.ai/](https://discourse.deeplearning.ai/)
