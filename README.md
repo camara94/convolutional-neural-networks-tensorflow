@@ -54,9 +54,16 @@ However, if you want to run them on your local machine, the ungraded labs and as
 
 ![image](images/7.png)
 
+
+## WEEK 3
+
+Building models for yourself is great, and can be very powerful. But, as you've seen, you can be limited by the data you have on hand. Not everybody has access to massive datasets or the compute power that's needed to train them effectively. Transfer learning can help solve this -- where people with models trained on large datasets train them, so that you can either use them directly, or, you can use the features that they have learned and apply them to your scenario. This is Transfer learning, and you'll look into that this week!
+
 ## Resources
 
 * [https://discourse.deeplearning.ai/](https://discourse.deeplearning.ai/)
 * [https://docs.google.com/document/d/1xrWj9plgme08hcxj5L5tEhOuQCa4W8_eN3E1kSb2pW0/edit#heading=h.9wfgljijo9b9](https://docs.google.com/document/d/1xrWj9plgme08hcxj5L5tEhOuQCa4W8_eN3E1kSb2pW0/edit#heading=h.9wfgljijo9b9)
 * [https://community.deeplearning.ai/c/tf1/tf1-course-2/80](https://community.deeplearning.ai/c/tf1/tf1-course-2/80)
 * [https://keras.io/api/preprocessing/image/](https://keras.io/api/preprocessing/image/)
+
+
