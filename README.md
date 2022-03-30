@@ -101,6 +101,10 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 
 ![image](images/18.png)
 
+## More About dropout!
+
+![ https://www.youtube.com/watch?v=ARq74QuavAo]( https://www.youtube.com/watch?v=ARq74QuavAo)
+
 ## Resources
 
 * [https://discourse.deeplearning.ai/](https://discourse.deeplearning.ai/)
