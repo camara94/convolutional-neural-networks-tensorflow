@@ -83,6 +83,11 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 
 ![image](images/11.png)
 
+## Summary The Model
+
+![image](images/12.png)
+![image](images/13.png)
+
 
 ## Resources
 
