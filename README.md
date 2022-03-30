@@ -67,6 +67,17 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 * Learn how to freeze layers from an existing model to successfully implement transfer learning
 * Explore the concept of transfer learning to use the convolutions learned by a different model from a larger dataset
 
+## Coding transfer learning from the inception model
+
+## Link To Copy Pretrained Model
+
+* [https://storage.googleapis.com/nledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels](https://storage.googleapis.com/nledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels)
+
+![image](images/9.png)
+
+![image](images/8.png)
+
+
 ## Resources
 
 * [https://discourse.deeplearning.ai/](https://discourse.deeplearning.ai/)
