@@ -120,6 +120,18 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 ![image](images/20.png)
 
 ![image](images/21.png)
+
+## Wrap up
+
+Congratulations on finishing Course 2 of this Specialization! Here, you spent a lot of time going over Convolutional Neural Networks: 
+
+* exploring how to use them with large datasets
+
+* taking advantage of augmentation, dropout, regularization, and transfer learning
+
+* and of course, looking at the coding considerations between binary or multi-class classification
+
+In Course 3, you'll switch gears and continue with Natural Language Processing, and in particular, work with texts.
 ## Resources
 
 * [https://discourse.deeplearning.ai/](https://discourse.deeplearning.ai/)
