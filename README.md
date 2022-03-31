@@ -114,6 +114,11 @@ Building models for yourself is great, and can be very powerful. But, as you've 
 
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
+
+## Explore multi-class with Rock Paper Scissors dataset
+
+![image](images/20.png)
+
 ## Resources
 
 * [https://discourse.deeplearning.ai/](https://discourse.deeplearning.ai/)
